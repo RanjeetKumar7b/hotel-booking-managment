@@ -1,4 +1,4 @@
-there is some snapshot of project which define the major component in hotel booking management system ->
+there is some snapshot of project which define the major component in hotel booking management system 
 
 1).Landing page of this website 
 <img width="1440" alt="Screenshot 2023-09-29 at 5 33 02 PM" src="https://github.com/RanjeetKumar7b/hotel-booking-managment/assets/77196517/02446992-0970-4b47-8771-db651e521036">

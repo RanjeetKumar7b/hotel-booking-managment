@@ -1,70 +1,12 @@
-# Getting Started with Create React App
+#there is some snapshot of project which define the major component in hotel booking management system ->
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#1).Landing page of this website 
+<img width="1440" alt="Screenshot 2023-09-29 at 5 21 54 PM" src="https://github.com/RanjeetKumar7b/hotel-booking-managment/assets/77196517/334a8ed1-7fff-4447-a55f-e15372797c7a">
+#2).Home page of this website
+<img width="1440" alt="Screenshot 2023-09-29 at 5 21 28 PM" src="https://github.com/RanjeetKumar7b/hotel-booking-managment/assets/77196517/3f0ed4e1-291c-433d-95b7-03b25c6bfb7a">
+#3).Features of home page where user can check the avilablityy of room and make their choices
+<img width="1440" alt="Screenshot 2023-09-29 at 5 22 05 PM" src="https://github.com/RanjeetKumar7b/hotel-booking-managment/assets/77196517/6b29a4ca-4a59-4a9e-ad3a-b3808e50d53f">
+#4).Registraion page of the website
+<img width="1440" alt="Screenshot 2023-09-29 at 5 21 37 PM" src="https://github.com/RanjeetKumar7b/hotel-booking-managment/assets/77196517/d3d3ec9b-b752-4de0-bf57-2ddbdbd6c2fc">
+#5).Login page of the website
+<img width="1440" alt="Screenshot 2023-09-29 at 5 21 46 PM" src="https://github.com/RanjeetKumar7b/hotel-booking-managment/assets/77196517/24d6e334-7c55-4ece-9a5d-9aaae81e1683">
